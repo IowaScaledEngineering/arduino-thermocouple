@@ -1,0 +1,22 @@
+# Syntax Coloring Map For Thermocouple Library
+
+# Datatypes (KEYWORD1)
+
+TypeB	KEYWORD1
+TypeE	KEYWORD1
+TypeJ	KEYWORD1
+TypeK	KEYWORD1
+TypeN	KEYWORD1
+TypeR	KEYWORD1
+TypeS	KEYWORD1
+TypeT	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+
+getTemperature	KEYWORD2
+
+
+# Constants (LITERAL1)
+
+TCOUPLE_OUT_OF_RANGE	LITERAL1
