@@ -9,7 +9,7 @@ Originally this library was developed to help users of the Iowa Scaled Engineeri
 make direct thermocouple measurements.  The onboard LTC2499 has a built-in temperature sensor, which is close enough to the terminal block to
 work as the cold junction temperature sensor.  See the "ard2499_thermocouple" example for how this is used.
 
-The library is heavily based on the work of Mosaic Industries and theirdevelopment of improved rational polynomial functions and coefficients
+The library is heavily based on the work of Mosaic Industries and their development of improved rational polynomial functions and coefficients
 to model thermocouple systems.  Their work provides significantly lower computational costs and significantly lower error as compared to the
 NIST ITS-90 polynomials and coefficients.  Their work is available [on their website here.](http://www.mosaic-industries.com/embedded-systems/microcontroller-projects/temperature-measurement/thermocouple/calibration-table)
 
